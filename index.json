@@ -1,0 +1,17 @@
+{
+  "collectionID": "utility-fantasy-names",
+  "collectionName": "Utility Fantasy Names",
+  "category": "Utility",
+  "isUtility": true,
+  "version": 1,
+  "tags": ["names", "modern"],
+  "tables": {
+    "dwarven": [
+      "male",
+      "female",
+      "surname-start",
+      "surname-end",
+      "surname-gen"
+    ]
+  }
+}
