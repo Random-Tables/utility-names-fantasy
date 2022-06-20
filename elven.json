@@ -162,7 +162,7 @@
   },
   "surname-gen": {
     "table": [
-      "{{utility-fantasy-names/elven/male:surname-start}}{{utility-fantasy-names/elven/surname-end:miel}}"
+      "{{utility-fantasy-names/elven/surname-start:Undo}}{{utility-fantasy-names/elven/surname-end:miel}}"
     ]
   }
 }
