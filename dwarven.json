@@ -203,7 +203,6 @@
   "surname-end": {
     "table": [
       "shield",
-      "born",
       "forge",
       "beard",
       "gurt",
@@ -226,9 +225,17 @@
       "breaker"
     ]
   },
+  "surname-child-end": {
+    "table": [
+      "born",
+      "son",
+      "child"
+    ]
+  },
   "surname-gen": {
     "table": [
-      "{{utility-names/english/surname-start:john}}{{utility-names/english/surname-end:son}}"
+      "{{utility-fantasy-names/dwarven/surname-start:thogrin}}{{utility-fantasy-names/dwarven/surname-end:forge}}",
+      "{{utility-fantasy-names/dwarven/male-start:anar}}{{utility-fantasy-names/dwarven/surname-end:born}}"
     ]
   }
 }

@@ -11,6 +11,7 @@
       "female",
       "surname-start",
       "surname-end",
+      "surname-child-end",
       "surname-gen"
     ]
   }
