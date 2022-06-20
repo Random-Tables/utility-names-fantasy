@@ -13,6 +13,17 @@
       "surname-end",
       "surname-child-end",
       "surname-gen"
+    ],
+    "elven": [
+      "male-middle",
+      "female-middle",
+      "male-high",
+      "female-high",
+      "male",
+      "female",
+      "surname-start",
+      "surname-end",
+      "surname-gen"
     ]
   }
 }

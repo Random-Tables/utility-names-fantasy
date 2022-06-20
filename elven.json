@@ -1,0 +1,168 @@
+{
+  "male-middle": {
+    "table": [
+      "Aerandir",
+      "Amarthan",
+      "Ancalagon",
+      "Aradan",
+      "Argon",
+      "Arothir",
+      "Boron",
+      "Caranthir",
+      "Celebrían",
+      "Curufin",
+      "Círdan",
+      "Cúthalion",
+      "Daeron",
+      "Ecthelion",
+      "Elboron",
+      "Elladan",
+      "Elrohir",
+      "Emeldir",
+      "Erchamion",
+      "Ereinion",
+      "Felagon",
+      "Fingon",
+      "Galathilion",
+      "Gwaihir",
+      "Haldir",
+      "Hatharan",
+      "Hatholdir",
+      "Huan",
+      "Ivon",
+      "Landroval",
+      "Lórindol",
+      "Nauglamír",
+      "Oraearon",
+      "Orgaladhad",
+      "Orgilion",
+      "Pengolodh",
+      "Remmirath",
+      "Rochallor",
+      "Seregon",
+      "Tauron",
+      "Thalion",
+      "Turgon"
+    ]
+  },
+  "female-middle": {
+    "table": [
+      "Adanedhel",
+      "Aerin",
+      "Andreth",
+      "Anglachel",
+      "Anguirel",
+      "Ar-feiniel",
+      "Ar-feiniel",
+      "Aranel",
+      "Aredhel",
+      "Berúthiel",
+      "Bireneth",
+      "Cadrien",
+      "Calatneth",
+      "Curuthien",
+      "Daldien",
+      "Dírhael",
+      "Elbereth",
+      "Estel",
+      "Falaneth",
+      "Falgwen",
+      "Fathagwen",
+      "Gil-estel",
+      "Gilthoniel",
+      "Glóredhel",
+      "Hanathien",
+      "Hath-agwen",
+      "Idbereth",
+      "Idgwen",
+      "Idril",
+      "Ioreth",
+      "Lindis",
+      "Malbeth",
+      "Malvegil",
+      "Meldis",
+      "Miniel",
+      "Mormegil",
+      "Nimrodel",
+      "Niphredil",
+      "Níniel",
+      "Orithil",
+      "Ormenel",
+      "Ornil",
+      "Peredhil",
+      "Perhael",
+      "Tinúviel"
+    ]
+  },
+  "male-high": {
+    "table": [
+      "Ancalagon",
+      "Maitimo",
+      "Turindo",
+      "Feanaro",
+      "Anarion",
+      "Annatar"
+    ]
+  },
+  "female-high": {
+    "table": [
+      "Amarie",
+      "Artanis",
+      "Elentari",
+      "Ilmare",
+      "Irisse",
+      "Miriel",
+      "Nerwende",
+      "Serinde"
+    ]
+  },
+  "male": {
+    "table": [
+      "{{utility-fantasy-names/elven/male-middle:Aerandir}}","{{utility-fantasy-names/elven/male-high:Ancalagon}}"
+    ]
+  },
+  "female": {
+    "table": [
+        "{{utility-fantasy-names/elven/female-middle:Adanedhel}}","{{utility-fantasy-names/elven/female-high:Amarie}}"
+    ]
+  },
+  "surname-start": {
+    "table": [
+      "Undo",
+      "Aera",
+      "Amar",
+      "Boro",
+      "Caran",
+      "Ecth",
+      "Cútha",
+      "Emel",
+      "Galath",
+      "Hald",
+      "Hatho",
+      "Landro",
+      "Naug",
+      "Orgal",
+      "Pengo",
+      "Remmira",
+      "Sere",
+      "Thal"
+    ]
+  },
+  "surname-end": {
+    "table": [
+      "miel",
+      "ara",
+      "arata",
+      "arna",
+      "quenta",
+      "manar",
+      "hilya",
+      "naham"
+    ]
+  },
+  "surname-gen": {
+    "table": [
+      "{{utility-fantasy-names/elven/male:surname-start}}{{utility-fantasy-names/elven/surname-end:miel}}"
+    ]
+  }
+}
