@@ -3,7 +3,7 @@
   "collectionName": "Utility Fantasy Names",
   "category": "Utility",
   "isUtility": true,
-  "version": 2,
+  "version": 3,
   "tags": ["names", "modern"],
   "tables": {
     "dwarven": [
