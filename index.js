@@ -9,5 +9,5 @@ module.exports = {
     dwarven,
     elven,
   },
-  call,
+  calls,
 };
