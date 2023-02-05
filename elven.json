@@ -118,12 +118,12 @@
   },
   "male": {
     "table": [
-      "{{utility-fantasy-names/elven/male-middle:Aerandir}}","{{utility-fantasy-names/elven/male-high:Ancalagon}}"
+      "{{utility-names-fantasy/elven/male-middle:Aerandir}}","{{utility-names-fantasy/elven/male-high:Ancalagon}}"
     ]
   },
   "female": {
     "table": [
-        "{{utility-fantasy-names/elven/female-middle:Adanedhel}}","{{utility-fantasy-names/elven/female-high:Amarie}}"
+        "{{utility-names-fantasy/elven/female-middle:Adanedhel}}","{{utility-names-fantasy/elven/female-high:Amarie}}"
     ]
   },
   "surname-start": {
@@ -162,7 +162,7 @@
   },
   "surname-gen": {
     "table": [
-      "{{utility-fantasy-names/elven/surname-start:Undo}}{{utility-fantasy-names/elven/surname-end:miel}}"
+      "{{utility-names-fantasy/elven/surname-start:Undo}}{{utility-names-fantasy/elven/surname-end:miel}}"
     ]
   }
 }

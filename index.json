@@ -3,8 +3,8 @@
   "collectionName": "Utility Fantasy Names",
   "category": "Utility",
   "isUtility": true,
-  "version": 3,
-  "tags": ["names", "modern"],
+  "version": 4,
+  "tags": ["names", "fantasy"],
   "tables": {
     "dwarven": [
       "male",

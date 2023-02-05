@@ -230,8 +230,8 @@
   },
   "surname-gen": {
     "table": [
-      "{{utility-fantasy-names/dwarven/surname-start:thogrin}}{{utility-fantasy-names/dwarven/surname-end:forge}}",
-      "{{utility-fantasy-names/dwarven/male:anar}}{{utility-fantasy-names/dwarven/surname-child-end:born}}"
+      "{{utility-names-fantasy/dwarven/surname-start:thogrin}}{{utility-names-fantasy/dwarven/surname-end:forge}}",
+      "{{utility-names-fantasy/dwarven/male:anar}}{{utility-names-fantasy/dwarven/surname-child-end:born}}"
     ]
   }
 }
